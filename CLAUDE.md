@@ -67,3 +67,8 @@ import { cn } from "@/lib/utils"
 - shadcn/ui (New York 스타일, neutral 베이스 컬러)
 - Lucide React (아이콘)
 - ESLint 9 (FlatConfig, next/core-web-vitals + next/typescript)
+
+## Project Context
+
+- PRD 문서: @docs/PRD.md
+- 개발 로드맵: @docs/ROADMAP.md
